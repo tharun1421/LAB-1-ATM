@@ -11,25 +11,30 @@ USECASE DIAGRAM:
 <img width="954" height="555" alt="image" src="https://github.com/user-attachments/assets/4fc05add-f7e8-493f-80aa-3312ace0ada7" />
 
 ACTIVITY DIAGRAM:
-![image](https://github.com/user-attachments/assets/61db0c0f-3cca-4b53-94e9-ef979fb1e9d3)
+<img width="1238" height="894" alt="Screenshot 2026-08-18 141136" src="https://github.com/user-attachments/assets/6968f198-bc94-4ddd-973a-c3c6bd43b663" />
+
 
 CLASS DIAGRAM:
-![image](https://github.com/user-attachments/assets/04142b82-a3ff-4e8f-8df9-5d7e530d4149)
+<img width="1238" height="894" alt="Screenshot 2026-08-18 141136" src="https://github.com/user-attachments/assets/eda03848-4cfa-4ca4-8c97-751cd0d59f23" />
+
 
 COMMUNICATION DIAGRAM:
-![image](https://github.com/user-attachments/assets/a20fa7b6-0759-4605-a0ca-e5f522ba5760)
+<img width="1917" height="1012" alt="Screenshot 2026-07-29 103912" src="https://github.com/user-attachments/assets/dea456d0-2534-45a9-b8b7-781192248516" />
 
 PACKAGE DIAGRAM:
-![image](https://github.com/user-attachments/assets/f1396bfc-866c-4795-a1bd-7aec4d9c94e5)
+<img width="1796" height="1062" alt="Screenshot 2026-08-04 135851" src="https://github.com/user-attachments/assets/64894e22-c2d3-420b-bb67-96779676a47e" />
+
 
 SEQUENCE DIAGRAM:
-![image](https://github.com/user-attachments/assets/ec6bc584-b0c1-4bb3-9481-4c65fd094665)
+<img width="1237" height="896" alt="Screenshot 2026-08-18 135934" src="https://github.com/user-attachments/assets/484eb83b-8162-4798-87b0-86a285dfdb74" />
 
 
 
 
 
-### RESULT: ![Uploading Screenshot 2026-07-28 142103.png…]()
+
+### RESULT:
+
 
 Thus the Atm and banking System project was executed and the output was verified.
 
