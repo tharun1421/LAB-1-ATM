@@ -28,6 +28,7 @@ SEQUENCE DIAGRAM:
 
 
 
-### RESULT: 
+### RESULT: ![Uploading Screenshot 2026-07-28 142103.png…]()
+
 Thus the Atm and banking System project was executed and the output was verified.
 
